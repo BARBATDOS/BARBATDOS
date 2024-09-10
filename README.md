@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BARBATDOS
+- 👋 Hi, I’m @Yoseph
 - 👀 I’m interested in FrontEnd Web Development
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on Project
